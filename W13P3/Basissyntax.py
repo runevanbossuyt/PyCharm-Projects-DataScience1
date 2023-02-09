@@ -128,3 +128,11 @@ for huidigeStudent in studenten:
 studenten = ("An", "Ben", "Jan")
 for huidigeStudent in studenten:
  print ("Welkom" + huidigeStudent)
+
+# Test van print()
+print("""
+E     Eerlijk
+L     Lief
+I     Introvert
+A     Actief
+S     Slim""")
