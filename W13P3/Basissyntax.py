@@ -57,7 +57,7 @@ mijnLijst = [1,2,3,4,5]
 mijnLijst[2]  # 3° element van de list
 mijnLijst[0] = 42
 len(mijnLijst)  # Aantal elementen in de lijst (lengte)
-mijnLijst.__len__() #Aantal elementen in de lijst (lengte)
+mijnLijst.__len__() # Aantal elementen in de lijst (lengte)
 
 # Je kan ook verschillende elementen uit de list tegelijk selecteren.
 mijnLijst[-1] # Selecteert het laatste element van de list
