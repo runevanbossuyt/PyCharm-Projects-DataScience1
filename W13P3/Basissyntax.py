@@ -136,3 +136,7 @@ L     Lief
 I     Introvert
 A     Actief
 S     Slim""")
+
+# 7 // 2 geeft 3, omdat 7 gedeeld door 2 geheel deelbaar is met rest 1, en we alleen het gehele deel willen
+
+# 7 / 2 geeft 3.5, omdat 7 gedeeld door 2 geen geheel getal is
