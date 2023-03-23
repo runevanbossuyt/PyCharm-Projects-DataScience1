@@ -1,2 +1,2 @@
-# PyCharm-Projects-DataScience
-PyCharm Projects [Data Science] First year exercises of training applied computer science at the KdG.
+# PyCharm-Projects-DataScience1
+PyCharm Projects [Data Science 1] First year exercises of training applied computer science at the KdG.
