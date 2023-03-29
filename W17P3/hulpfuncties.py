@@ -68,3 +68,6 @@ def mean_median_mode(series: pd.Series):
     print(f"Het gemiddelde is:{series.mean()}")
     print(f"De mediaan is:{series.median()}")
     print(f"De modus is:{series.value_counts().idxmax()}")
+
+
+
